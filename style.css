@@ -1,0 +1,12 @@
+h1
+{
+	color: rgb(97, 132, 155); 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("https://static.vecteezy.com/system/resources/previews/000/694/502/non_2x/gold-glitter-background-vector.jpg"); background-position: center; background-size: cover;
+}
+
+#myCanvas{
+	border-width:10px; background-color: rgba(255, 255, 255, 0.692); border-style:ridge;
+}
